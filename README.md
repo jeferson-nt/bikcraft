@@ -63,9 +63,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML5
 - CSS3
 
-### ⚖ Direitos
-
-Todos direitos são reservados a ORIGAMID.
 
 ###  📝 Licença
 
