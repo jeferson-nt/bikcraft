@@ -53,7 +53,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina como as segu
 
 ```bash
 # Clonar este direito
-$ git clone https://github.com/jeferson-nt/disneyplus
+$ git clone https://github.com/jeferson-nt/bikcraft
 ```
 
 ###  🚀 Tecnologias
