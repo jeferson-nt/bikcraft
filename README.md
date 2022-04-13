@@ -6,11 +6,12 @@
    Projeto Bikcraft ( Desenvolvido via ORIGAMID )
 </h1>
 
-<p align="center">Aplicação Básica para aprimorar os conhecimentos em HTML e CSS </p>
+<p align="center">Aplicação Básica para aprimorar os conhecimentos em HTML,CSS e JS </p>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=html&message=5.0&color=61DAFB&logo=html" />
   <img src="https://img.shields.io/static/v1?label=css&message=3.0&color=0088CC&logo=css" />
+  <img src="https://img.shields.io/static/v1?label=js&message=ES6&color=yellow&logo=javascript" />
   <img src="https://img.shields.io/badge/last%21commit-march-important" />
   <img src="https://img.shields.io/badge/license-MIT-success"/>
 </p>
@@ -62,6 +63,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML5
 - CSS3
+- JS
 
 
 ###  📝 Licença
